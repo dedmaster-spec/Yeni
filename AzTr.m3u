@@ -473,4 +473,52 @@ https://ip100.radyotelekomtv.com:3534/stream/play.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
 #EXTINF:-1,Veten türkiye
 https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
+#EXTINF:-1,İsvecre tv
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1,SLOW KARADENİZ
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:-1, RIZE TÜRK
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1, KANAL 53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1,PLAY
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1, SUPER TÜRK 
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1,PlayerCinema tv
+https://v2.catcast.tv/content/50341/seg-25461425-v1-a1/index.m3u8
 
+#EXTINF:-1, PLAYER CİNEMA TV
+https://raw.githubusercontent.com/dedmaster-spec/PlayerCinema-tv/refs/heads/main/PlayerCinematv.m3u8
+#EXTINF:-1,İsmayıllı music
+https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
+#EXTINF:-1,İsmayilli TV 
+https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
+#EXTINF:-1,S TV musik az
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+#EXTINF:-1,TV 36 Qəbələ
+http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
+
+#EXTINF:-1,Boncuk TV
+http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
+#EXTINF:-1,Podifik Sinema
+http://5.178.103.239:82/d/live/out.m3u8
+#EXTINF:-1,Podifik Sinema 2
+http://104.238.23.216/d/live/out.m3u8
+#EXTINF:-1, TJK TV
+https://tjktv-live.tjk.org/tjktv_720p.m3u8
+#EXTINF:-1, TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
+
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1, TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1,360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_360p.m3u8
+#EXTINF:-1, TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
