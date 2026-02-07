@@ -59,7 +59,7 @@ http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 #EXTINF:-1, İ PLAY CİNEMA
 https://a8.radyotelekom.com.tr:3742/stream/play.m3u8
-#EXTİNF:-1, İSMAYİLLİ TV
+#EXTINF:-1, İSMAYİLLİ TV
 https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
 #EXTINF:-1, CineAZE TV
 https://tv156.radyotelekom.com.tr:3852/stream/play.m3u8
@@ -67,7 +67,7 @@ https://tv156.radyotelekom.com.tr:3852/stream/play.m3u8
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:1, Alvin Ovçu
 http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
-#EXTİNF:-1, KƏPƏZ TV
+#EXTINF:-1, KƏPƏZ TV
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 #EXTINF:-1, HTV Cinema
 https://live20.bozztv.com/akamaissh101/ssh101/htvcinema/chunks.m3u8
@@ -108,14 +108,22 @@ http://45.130.146.12:8080/live/htvcinema/playlist.m3u8
 #EXTINF:-1,Az TV:       https://str.yodacdn.net/aztv/index.m3u8  
 #EXTINF:-1,Ictimai TV
 https://live.itv.az/itv.m3u8  
-#EXTINF:-1,Azad TV:     https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8  
-#EXTINF:-1,Baku TV:     https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8  
-#EXTINF:-1,Xəzər TV:    https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8  
-#EXTINF:-1,Space TV:    https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8  
-#EXTINF:-1,ARB:         https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8  
-#EXTINF:-1,ARB24:       https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8  
-#EXTINF:-1,Dunya TV:    https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8  
-#EXTINF:-1,Medeniyyet TV: https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1,Azad TV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8  
+#EXTINF:-1,Baku TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8  
+#EXTINF:-1,Xəzər TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8  
+#EXTINF:-1,Space TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8  
+#EXTINF:-1,ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8  
+#EXTINF:-1,ARB24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8  
+#EXTINF:-1,Dunya TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8  
+#EXTINF:-1,Medeniyyet TV
+https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1,HTV Cinema
 http://pumatr4k.xyz:8080/Suns33.03Hr/ab5Z6Ut/563779
 
@@ -215,8 +223,6 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1,KN music az
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV 1 Az
-https://telecast.srthub.net/hls/2085...s/v3/play.m3u8
 #EXTINF:-1,Turkish press
 https://live.euromediacenter.com/turkishpress/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tele news
@@ -267,10 +273,6 @@ http://89.232.68.194:8080/rentv/index.m3u8
 http://89.232.68.194:8080/pyatnitsa/index.m3u8
 #EXTINF:-1,НТВ
 http://89.232.68.194:8080/ntv/index.m3u8
-
-Spoiler:  
-
-#EXTM3U
 #EXTINF:-1, 24_Tv
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/24_Tv.m3u8
 #EXTINF:-1, A_Spor
@@ -485,11 +487,6 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1, SUPER TÜRK 
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1,PlayerCinema tv
-https://v2.catcast.tv/content/50341/seg-25461425-v1-a1/index.m3u8
-
-#EXTINF:-1, PLAYER CİNEMA TV
-https://raw.githubusercontent.com/dedmaster-spec/PlayerCinema-tv/refs/heads/main/PlayerCinematv.m3u8
 #EXTINF:-1,İsmayıllı music
 https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
 #EXTINF:-1,İsmayilli TV 
